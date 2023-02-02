@@ -11,7 +11,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/preact": "^2.0.1",
     "astro": "^2.0.2",
-    "microcms-js-sdk": "^2.3.2"
+    "microcms-js-sdk": "^2.3.2",
+    "preact": "^10.11.3",
+    "swr": "^2.0.3"
   }
 }
